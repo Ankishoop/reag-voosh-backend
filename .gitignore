@@ -1,0 +1,44 @@
+# Node.js dependencies
+node_modules
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Environment files
+.env
+.env.*.local
+
+# Build output
+dist/
+build/
+.cache/
+out/
+
+# TypeScript
+*.tsbuildinfo
+
+# Logs
+logs
+*.log
+*.log.*
+lerna-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE/editor
+.vscode/
+.idea/
+*.sw?
+*.swo
+*.swn
+*.swo
+
+# Testing
+coverage/
+.nyc_output/
+
+# Misc
+*.tgz
